@@ -1,3 +1,9 @@
+## Notice
+The contents of this repository is a fork from the original repository by 
+Agustin González-Quel to upload my own work.
+
+Original README follows
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
